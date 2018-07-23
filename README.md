@@ -6,8 +6,8 @@
 
 取材自以下資源
 --------
-MTransition                                  
-https://github.com/HJ-Money/MTransition
+Android Development Tutorial - Google Location API Newest                                  
+https://www.youtube.com/watch?v=ynUL-qbylgM
                           
 預覽
 --------
